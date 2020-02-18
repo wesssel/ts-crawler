@@ -1,0 +1,19 @@
+{
+  "name": "ts-crawler",
+  "version": "1.0.0",
+  "main": "lib/index.ts",
+  "repository": "https://github.com/wesssel/ts-crawler",
+  "author": "Wessel  van der Pal <wesselvanderpal@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "example": "ts-node example.ts"
+  },
+  "dependencies": {
+    "@types/node": "^13.7.1",
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "cheerio-eq": "^1.0.1",
+    "ts-node": "^8.6.2",
+    "typescript": "^3.7.5"
+  }
+}
